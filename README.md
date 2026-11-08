@@ -2,7 +2,7 @@
 
 Un outil gratuit pour avocats : il appose le numéro de pièce sur la première page de chaque PDF d'un dossier, en quelques secondes. Le numéro est lu directement dans le nom du fichier.
 
-Ce dépôt ne contient pas de logiciel à télécharger. Il contient **la recette** : un texte à coller dans un assistant d'IA (Claude, ChatGPT…), qui fabrique l'outil pour vous. Vous gardez ainsi la maîtrise complète de ce qui s'exécute sur votre ordinateur.
+Ce dépôt contient le logiciel à télécharger et **la recette** : un texte à coller dans un assistant d'IA (Claude, ChatGPT…), qui fabrique l'outil pour vous. Vous gardez ainsi la maîtrise complète de ce qui s'exécute sur votre ordinateur.
 
 ## Ce que fait l'outil
 
